@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-- <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 -->
 
 
+<-- BLOG-POST-LIST:START -->
+<-- BLOG-POST-LIST:END -->
