@@ -4,6 +4,8 @@
 **Elandi13/Elandi13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
