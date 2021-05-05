@@ -28,8 +28,7 @@
 
 
 ---
-
-< img align="left" alt="elvis Github Stats" src="https://github-readme-stats.vercel.app/api?username=Elandi13&show_icons=true&hide_border=true" />
+[![Elvis' GitHub stats](https://github-readme-stats.vercel.app/api?username=Elandi13)](https://github.com/elandi13/github-readme-stats)
 
 
 
