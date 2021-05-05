@@ -19,11 +19,11 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Show your latest dev.to posts automatically on your GitHub profile readme](https://dev.to/gautamkrishnar/show-your-latest-dev-to-posts-automatically-in-your-github-profile-readme-3nk8)
-- [God Mode in browsers: document.designMode = "on"](https://dev.to/gautamkrishnar/god-mode-in-browsers-document-designmode-on-2pmo)
-- [Skipping the Chrome "Your connection is not private" warning](https://dev.to/gautamkrishnar/quickbits-1-skipping-the-chrome-your-connection-is-not-private-warning-4kp1)
-- [Microsoft Student Partners – Geek is the new rockstar](https://dev.to/gautamkrishnar/microsoft-student-partners--geek-is-the-new-rockstar)
-- [An Introduction to NumPy](https://dev.to/gautamkrishnar/an-introduction-to-numpy)
+- [Until We Meet Again!](https://elandi13.medium.com/until-we-meet-again-7ed12b3a365e?source=rss-2d20dff57cd6------2)
+- [DEVELOPER REACTS TO REACT!!!!!!!](https://elandi13.medium.com/developer-reacts-to-react-af55831f3c8b?source=rss-2d20dff57cd6------2)
+- [JavaScripts equals what? — The differences between == and ===](https://elandi13.medium.com/javascripts-equals-what-the-differences-between-and-4fc3cf406dee?source=rss-2d20dff57cd6------2)
+- [Ohh CRUD:Ruby on Rails & CRUD](https://elandi13.medium.com/ohh-crud-ruby-on-rails-crud-a51c2ad49e25?source=rss-2d20dff57cd6------2)
+- [Starting from Scratch: An Outlook Into Software Engineering at the Flatiron School.](https://elandi13.medium.com/starting-from-scratch-an-outlook-into-software-engineering-at-the-flatiron-school-b25739231540?source=rss-2d20dff57cd6------2)
 <!-- BLOG-POST-LIST:END -->
 
 
