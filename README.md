@@ -27,6 +27,10 @@
 <!-- BLOG-POST-LIST:END -->
 
 
+---
+
+< img align-"left" alt="elvis' Github Stats" src="https://github-readme-stats.vercel.app/api?username=elandi13&show_icons=true&hide_border=true" />
+
 
 
 
