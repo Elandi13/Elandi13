@@ -19,7 +19,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
-- [Breaking the Language Barrier using i18next in react!](https://elandi13.medium.com/breaking-the-language-barrier-using-i18next-in-react-56e0c2951e23?source=rss-2d20dff57cd6------2)
+- [Breaking the Language Barrier using i18next in react!](https://medium.com/nerd-for-tech/breaking-the-language-barrier-using-i18next-in-react-56e0c2951e23?source=rss-2d20dff57cd6------2)
 - [Until We Meet Again!](https://elandi13.medium.com/until-we-meet-again-7ed12b3a365e?source=rss-2d20dff57cd6------2)
 - [DEVELOPER REACTS TO REACT!!!!!!!](https://elandi13.medium.com/developer-reacts-to-react-af55831f3c8b?source=rss-2d20dff57cd6------2)
 - [JavaScripts equals what? — The differences between == and ===](https://elandi13.medium.com/javascripts-equals-what-the-differences-between-and-4fc3cf406dee?source=rss-2d20dff57cd6------2)
