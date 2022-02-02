@@ -1,10 +1,10 @@
 ## Hey !, My Name is Elvis 👋 
 
 ## I'm a Developer, Dog Parent, and forever Student! 
-- 🤠 Always looking to pair program! 
-- 💸 2021 Goals: Get hired and start my career as a full-stack developer.
-- 🕹 About me: I love playing video games and recently started streaming on [<img alt="elvis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
-- Currently grinding Data Structures and Algorthims.
+- 🤠 Learning something new everyday! 
+- 💸 2022 Goals: Get hired and begin my career in the tech industrry.
+- 🕹 About me: I strive to be a better human everyday and do what i can to help contibute to a better life for others. I also enjoy playing video games and occasionally stream on [<img alt="elvis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
+- Currently working on imporving my SQL, API, and backend knowledge. 
 
 
 <br />
@@ -36,4 +36,4 @@
 
 
 [linkedin]: https://www.linkedin.com/in/elvis-landi-32101b20b/
-[twitch]: https://www.twitch.tv/s1eepy04
+[twitch]: https://www.twitch.tv/el_lombre
