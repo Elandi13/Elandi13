@@ -1,10 +1,11 @@
 ## Hey !, My Name is Elvis 👋 
 
-## I'm a Developer, Dog Parent, and forever Student! 
+## I'm a Technical Support Specialist, Developer, and dog parent! 
 - 🤠 Learning something new everyday! 
-- 💸 2022 Goals: Get hired and begin my career in the tech industrry.
+- 💸 2022 Goals: Get hired and begin my career in the tech industrry [X].
 - 🕹 About me: I strive to be a better human everyday and do what i can to help contibute to a better life for others. I also enjoy playing video games and occasionally stream on [<img alt="elvis | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitch.svg" />][twitch]
 - Currently working on imporving my SQL, API, and backend knowledge. 
+- Currently working as a Technical Suppot Specialist at Iterable.
 
 
 <br />
